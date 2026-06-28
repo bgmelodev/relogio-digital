@@ -1,0 +1,131 @@
+/* ===========================
+   RESET DA PÁGINA
+   Configurações padrões
+=========================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* ===========================
+   BODY
+   Centraliza todo o conteúdo
+   e define o fundo da página.
+=========================== */
+
+body {
+
+    /* Layout */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* Aparência */
+    background: black;
+
+
+
+}
+
+
+/* ===========================
+   CONTAINER
+   Caixa principal do projeto
+=========================== */
+
+.container {
+
+    /* Espaçamento */
+    padding: 5px;
+
+    /* Aparência */
+    background: rgb(199, 199, 199);
+    border-radius: 15px;
+
+    /* Organização */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+
+
+/* ===========================
+   TIME
+   Organiza horas, minutos
+   e segundos.
+=========================== */
+
+.time {
+
+    /* Tamanho */
+    width: 300px;
+
+    /* Espaçamento */
+    padding: 20px;
+
+    /* Aparência */
+    background: #ffffff;
+    border-radius: 8px;
+
+    /* Organização */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+
+}
+
+
+/* ===========================
+   NÚMEROS
+   Cada caixa do relógio
+=========================== */
+
+.numero {
+
+    /* Tamanho */
+    width: 80px;
+    height: 80px;
+
+    /* Aparência */
+    background: white;
+    border-radius: 10px;
+
+    /* Organização */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Texto */
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+
+/* ===========================
+   DOIS PONTOS
+=========================== */
+
+.espaco {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+
+.dia {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #000000;
+    color: rgb(255, 255, 255);
+}
