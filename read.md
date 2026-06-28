@@ -57,3 +57,10 @@ Este projeto foi desenvolvido para praticar:
 ## 👨‍💻 Desenvolvido por
 
 Bruno Melo
+
+
+<img width="1870" height="903" alt="image" src="https://github.com/user-attachments/assets/56dc1328-6965-4411-9ad4-a9bd7af7f599" />
+
+
+
+<img width="1836" height="984" alt="image" src="https://github.com/user-attachments/assets/f9597e78-b918-4eb9-bad7-54c9c0e2acd4" />
